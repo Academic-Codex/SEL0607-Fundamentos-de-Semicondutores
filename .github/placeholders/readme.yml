@@ -1,0 +1,12 @@
+REPO_TAGLINE: Semiconductor physics • band theory • electronic materials
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SEL0607-Fundamentos-De-Semicondutores
+
+BG_1: "#1A140E"
+BG_2: "#3A2A1B"
+TEXT_MAIN: "#FFF6E5"
+TEXT_MUTED: "#D1BFA3"
+ACCENT: "#F59E0B"
+CARD_RADIUS: "18"
