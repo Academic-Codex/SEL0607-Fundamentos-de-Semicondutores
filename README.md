@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0607-Fundamentos-de-Semicondutores">
-    <img src=".github/readme/hero.svg?v=2026-01-08T00:14:35.440052Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T00:48:24.856654Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
